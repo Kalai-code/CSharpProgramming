@@ -1,0 +1,7 @@
+C:\CSharpLearning\InterviewProblemSolutions\ArraySolutions\bin\Debug\ArraySolutions.exe.config
+C:\CSharpLearning\InterviewProblemSolutions\ArraySolutions\bin\Debug\ArraySolutions.exe
+C:\CSharpLearning\InterviewProblemSolutions\ArraySolutions\bin\Debug\ArraySolutions.pdb
+C:\CSharpLearning\InterviewProblemSolutions\ArraySolutions\obj\Debug\ArraySolutions.csprojAssemblyReference.cache
+C:\CSharpLearning\InterviewProblemSolutions\ArraySolutions\obj\Debug\ArraySolutions.csproj.CoreCompileInputs.cache
+C:\CSharpLearning\InterviewProblemSolutions\ArraySolutions\obj\Debug\ArraySolutions.exe
+C:\CSharpLearning\InterviewProblemSolutions\ArraySolutions\obj\Debug\ArraySolutions.pdb

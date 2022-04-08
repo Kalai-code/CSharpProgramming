@@ -1,0 +1,7 @@
+C:\CSharpLearning\InterviewProblemSolutions\stringproblem_solutions\bin\Debug\stringproblem_solutions.exe.config
+C:\CSharpLearning\InterviewProblemSolutions\stringproblem_solutions\bin\Debug\stringproblem_solutions.exe
+C:\CSharpLearning\InterviewProblemSolutions\stringproblem_solutions\bin\Debug\stringproblem_solutions.pdb
+C:\CSharpLearning\InterviewProblemSolutions\stringproblem_solutions\obj\Debug\stringproblem_solutions.csprojAssemblyReference.cache
+C:\CSharpLearning\InterviewProblemSolutions\stringproblem_solutions\obj\Debug\stringproblem_solutions.csproj.CoreCompileInputs.cache
+C:\CSharpLearning\InterviewProblemSolutions\stringproblem_solutions\obj\Debug\stringproblem_solutions.exe
+C:\CSharpLearning\InterviewProblemSolutions\stringproblem_solutions\obj\Debug\stringproblem_solutions.pdb
